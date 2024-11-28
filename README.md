@@ -2,7 +2,7 @@
   <strong>Sayed Sadat:</strong>
 </h1>
 <div align="center">
-  <img src="https://github.com/YaqubRahman/YaqubRahman/blob/main/GithubYaqub3.gif" alt="Hello, I am Yaqub Rahman">
+  <img src="https://github.com/SAYED-I/SAYED-I/blob/main/SayedGIF.gif" alt="Hello, I am Sayed">
 </div>
 
 
