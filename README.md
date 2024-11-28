@@ -5,9 +5,11 @@
   <img src="https://github.com/SAYED-I/SAYED-I/blob/main/SayedGIF.gif" alt="Hello, I am Sayed">
 </div>
 
+#
 
+ - 💻 I'm an undergraduate CS at City University
 
-💻 I'm an undergraduate CS student
+#
 
 <div align="center" style="padding: 4px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
