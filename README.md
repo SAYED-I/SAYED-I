@@ -2,7 +2,7 @@
   <strong>Sayed Sadat:</strong>
 </h1>
 <div align="center">
-  <img src="C:\Users\LENOVO X1 YOGA\Downloads\sayedGIF (2).gif" alt="Hello, I am Sayed">
+  <img src="https://github.com/SAYED-I/SAYED-I/blob/main/sayedGIF%20(2).gif" alt="Hello, I am Sayed">
 </div>
 
 #
